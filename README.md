@@ -63,5 +63,3 @@ There are multiple variables in the dataset which can be cleanly divided in 3 ca
 Wow, we can already see there are many features in the data dictionary which we included in our hypothesis.
 
 Now, we will begin the exploratory analysis of the dataset. Note that here I have used a popular visualization library called <b>Seaborn</b> which we covered in a previous module. Seaborn is library that is easy to use and has functionality to plot a variety of plots with few lines of code. 
-* Here is the link to documentation for Seaborn: https://seaborn.pydata.org/index.html. 
-* You can also go through this article for a quick overview on visualization and Seaborn: https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/
